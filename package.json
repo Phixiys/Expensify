@@ -32,6 +32,7 @@
     "webpack-dev-server": "^2.9.4"
   },
   "devDependencies": {
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "uuid": "^3.1.0"
   }
 }
