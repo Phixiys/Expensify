@@ -1,5 +1,4 @@
-import React from "react";
-import { BrowserRouter, Route, Switch, Link, NavLink } from "react-router-dom";
+import React from 'react';
 
 const EditExpensePage = (props) => {
   console.log(props);
@@ -7,8 +6,7 @@ const EditExpensePage = (props) => {
     <div>
       Editing the expense with id of {props.match.params.id}
     </div>
-  )
+  );
 };
-
 
 export default EditExpensePage;

@@ -1,6 +1,9 @@
-import React from "react";
-import { BrowserRouter, Route, Switch, Link, NavLink } from "react-router-dom";
+import React from 'react';
 
-const HelpPage = () => <div>This is from my help component</div>;
+const HelpPage = () => (
+  <div>
+    This is from my help component
+  </div>
+);
 
 export default HelpPage;
