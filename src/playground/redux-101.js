@@ -1,5 +1,6 @@
 import { createStore } from 'redux';
 
+// Actions - than an object that gets sent to the store
 // Action generators - functions that return action objects
 
 const incrementCount = ({ incrementBy = 1 } = {}) => ({
