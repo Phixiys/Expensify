@@ -101,16 +101,19 @@ ShallowWrapper {
             }
             placeholder="Date"
             readOnly={false}
+            renderCalendarDay={undefined}
             renderCalendarInfo={null}
-            renderDay={null}
+            renderDayContents={null}
             renderMonth={null}
             reopenPickerOnClearDate={false}
             required={false}
             screenReaderInputMessage=""
             showClearDate={false}
             showDefaultInputIcon={false}
+            small={false}
             transitionDuration={undefined}
             verticalHeight={null}
+            verticalSpacing={22}
             weekDayFormat="dd"
             withFullScreenPortal={false}
             withPortal={false}
@@ -214,16 +217,19 @@ ShallowWrapper {
               }
               placeholder="Date"
               readOnly={false}
+              renderCalendarDay={undefined}
               renderCalendarInfo={null}
-              renderDay={null}
+              renderDayContents={null}
               renderMonth={null}
               reopenPickerOnClearDate={false}
               required={false}
               screenReaderInputMessage=""
               showClearDate={false}
               showDefaultInputIcon={false}
+              small={false}
               transitionDuration={undefined}
               verticalHeight={null}
+              verticalSpacing={22}
               weekDayFormat="dd"
               withFullScreenPortal={false}
               withPortal={false}
@@ -338,16 +344,19 @@ ShallowWrapper {
               },
               "placeholder": "Date",
               "readOnly": false,
+              "renderCalendarDay": undefined,
               "renderCalendarInfo": null,
-              "renderDay": null,
+              "renderDayContents": null,
               "renderMonth": null,
               "reopenPickerOnClearDate": false,
               "required": false,
               "screenReaderInputMessage": "",
               "showClearDate": false,
               "showDefaultInputIcon": false,
+              "small": false,
               "transitionDuration": undefined,
               "verticalHeight": null,
+              "verticalSpacing": 22,
               "weekDayFormat": "dd",
               "withFullScreenPortal": false,
               "withPortal": false,
@@ -476,16 +485,19 @@ ShallowWrapper {
               }
               placeholder="Date"
               readOnly={false}
+              renderCalendarDay={undefined}
               renderCalendarInfo={null}
-              renderDay={null}
+              renderDayContents={null}
               renderMonth={null}
               reopenPickerOnClearDate={false}
               required={false}
               screenReaderInputMessage=""
               showClearDate={false}
               showDefaultInputIcon={false}
+              small={false}
               transitionDuration={undefined}
               verticalHeight={null}
+              verticalSpacing={22}
               weekDayFormat="dd"
               withFullScreenPortal={false}
               withPortal={false}
@@ -589,16 +601,19 @@ ShallowWrapper {
                 }
                 placeholder="Date"
                 readOnly={false}
+                renderCalendarDay={undefined}
                 renderCalendarInfo={null}
-                renderDay={null}
+                renderDayContents={null}
                 renderMonth={null}
                 reopenPickerOnClearDate={false}
                 required={false}
                 screenReaderInputMessage=""
                 showClearDate={false}
                 showDefaultInputIcon={false}
+                small={false}
                 transitionDuration={undefined}
                 verticalHeight={null}
+                verticalSpacing={22}
                 weekDayFormat="dd"
                 withFullScreenPortal={false}
                 withPortal={false}
@@ -713,16 +728,19 @@ ShallowWrapper {
                 },
                 "placeholder": "Date",
                 "readOnly": false,
+                "renderCalendarDay": undefined,
                 "renderCalendarInfo": null,
-                "renderDay": null,
+                "renderDayContents": null,
                 "renderMonth": null,
                 "reopenPickerOnClearDate": false,
                 "required": false,
                 "screenReaderInputMessage": "",
                 "showClearDate": false,
                 "showDefaultInputIcon": false,
+                "small": false,
                 "transitionDuration": undefined,
                 "verticalHeight": null,
+                "verticalSpacing": 22,
                 "weekDayFormat": "dd",
                 "withFullScreenPortal": false,
                 "withPortal": false,
@@ -883,16 +901,19 @@ ShallowWrapper {
             }
             placeholder="Date"
             readOnly={false}
+            renderCalendarDay={undefined}
             renderCalendarInfo={null}
-            renderDay={null}
+            renderDayContents={null}
             renderMonth={null}
             reopenPickerOnClearDate={false}
             required={false}
             screenReaderInputMessage=""
             showClearDate={false}
             showDefaultInputIcon={false}
+            small={false}
             transitionDuration={undefined}
             verticalHeight={null}
+            verticalSpacing={22}
             weekDayFormat="dd"
             withFullScreenPortal={false}
             withPortal={false}
@@ -996,16 +1017,19 @@ ShallowWrapper {
               }
               placeholder="Date"
               readOnly={false}
+              renderCalendarDay={undefined}
               renderCalendarInfo={null}
-              renderDay={null}
+              renderDayContents={null}
               renderMonth={null}
               reopenPickerOnClearDate={false}
               required={false}
               screenReaderInputMessage=""
               showClearDate={false}
               showDefaultInputIcon={false}
+              small={false}
               transitionDuration={undefined}
               verticalHeight={null}
+              verticalSpacing={22}
               weekDayFormat="dd"
               withFullScreenPortal={false}
               withPortal={false}
@@ -1120,16 +1144,19 @@ ShallowWrapper {
               },
               "placeholder": "Date",
               "readOnly": false,
+              "renderCalendarDay": undefined,
               "renderCalendarInfo": null,
-              "renderDay": null,
+              "renderDayContents": null,
               "renderMonth": null,
               "reopenPickerOnClearDate": false,
               "required": false,
               "screenReaderInputMessage": "",
               "showClearDate": false,
               "showDefaultInputIcon": false,
+              "small": false,
               "transitionDuration": undefined,
               "verticalHeight": null,
+              "verticalSpacing": 22,
               "weekDayFormat": "dd",
               "withFullScreenPortal": false,
               "withPortal": false,
@@ -1258,16 +1285,19 @@ ShallowWrapper {
               }
               placeholder="Date"
               readOnly={false}
+              renderCalendarDay={undefined}
               renderCalendarInfo={null}
-              renderDay={null}
+              renderDayContents={null}
               renderMonth={null}
               reopenPickerOnClearDate={false}
               required={false}
               screenReaderInputMessage=""
               showClearDate={false}
               showDefaultInputIcon={false}
+              small={false}
               transitionDuration={undefined}
               verticalHeight={null}
+              verticalSpacing={22}
               weekDayFormat="dd"
               withFullScreenPortal={false}
               withPortal={false}
@@ -1371,16 +1401,19 @@ ShallowWrapper {
                 }
                 placeholder="Date"
                 readOnly={false}
+                renderCalendarDay={undefined}
                 renderCalendarInfo={null}
-                renderDay={null}
+                renderDayContents={null}
                 renderMonth={null}
                 reopenPickerOnClearDate={false}
                 required={false}
                 screenReaderInputMessage=""
                 showClearDate={false}
                 showDefaultInputIcon={false}
+                small={false}
                 transitionDuration={undefined}
                 verticalHeight={null}
+                verticalSpacing={22}
                 weekDayFormat="dd"
                 withFullScreenPortal={false}
                 withPortal={false}
@@ -1495,16 +1528,19 @@ ShallowWrapper {
                 },
                 "placeholder": "Date",
                 "readOnly": false,
+                "renderCalendarDay": undefined,
                 "renderCalendarInfo": null,
-                "renderDay": null,
+                "renderDayContents": null,
                 "renderMonth": null,
                 "reopenPickerOnClearDate": false,
                 "required": false,
                 "screenReaderInputMessage": "",
                 "showClearDate": false,
                 "showDefaultInputIcon": false,
+                "small": false,
                 "transitionDuration": undefined,
                 "verticalHeight": null,
+                "verticalSpacing": 22,
                 "weekDayFormat": "dd",
                 "withFullScreenPortal": false,
                 "withPortal": false,
@@ -1655,16 +1691,19 @@ ShallowWrapper {
             }
             placeholder="Date"
             readOnly={false}
+            renderCalendarDay={undefined}
             renderCalendarInfo={null}
-            renderDay={null}
+            renderDayContents={null}
             renderMonth={null}
             reopenPickerOnClearDate={false}
             required={false}
             screenReaderInputMessage=""
             showClearDate={false}
             showDefaultInputIcon={false}
+            small={false}
             transitionDuration={undefined}
             verticalHeight={null}
+            verticalSpacing={22}
             weekDayFormat="dd"
             withFullScreenPortal={false}
             withPortal={false}
@@ -1768,16 +1807,19 @@ ShallowWrapper {
               }
               placeholder="Date"
               readOnly={false}
+              renderCalendarDay={undefined}
               renderCalendarInfo={null}
-              renderDay={null}
+              renderDayContents={null}
               renderMonth={null}
               reopenPickerOnClearDate={false}
               required={false}
               screenReaderInputMessage=""
               showClearDate={false}
               showDefaultInputIcon={false}
+              small={false}
               transitionDuration={undefined}
               verticalHeight={null}
+              verticalSpacing={22}
               weekDayFormat="dd"
               withFullScreenPortal={false}
               withPortal={false}
@@ -1892,16 +1934,19 @@ ShallowWrapper {
               },
               "placeholder": "Date",
               "readOnly": false,
+              "renderCalendarDay": undefined,
               "renderCalendarInfo": null,
-              "renderDay": null,
+              "renderDayContents": null,
               "renderMonth": null,
               "reopenPickerOnClearDate": false,
               "required": false,
               "screenReaderInputMessage": "",
               "showClearDate": false,
               "showDefaultInputIcon": false,
+              "small": false,
               "transitionDuration": undefined,
               "verticalHeight": null,
+              "verticalSpacing": 22,
               "weekDayFormat": "dd",
               "withFullScreenPortal": false,
               "withPortal": false,
@@ -2030,16 +2075,19 @@ ShallowWrapper {
               }
               placeholder="Date"
               readOnly={false}
+              renderCalendarDay={undefined}
               renderCalendarInfo={null}
-              renderDay={null}
+              renderDayContents={null}
               renderMonth={null}
               reopenPickerOnClearDate={false}
               required={false}
               screenReaderInputMessage=""
               showClearDate={false}
               showDefaultInputIcon={false}
+              small={false}
               transitionDuration={undefined}
               verticalHeight={null}
+              verticalSpacing={22}
               weekDayFormat="dd"
               withFullScreenPortal={false}
               withPortal={false}
@@ -2143,16 +2191,19 @@ ShallowWrapper {
                 }
                 placeholder="Date"
                 readOnly={false}
+                renderCalendarDay={undefined}
                 renderCalendarInfo={null}
-                renderDay={null}
+                renderDayContents={null}
                 renderMonth={null}
                 reopenPickerOnClearDate={false}
                 required={false}
                 screenReaderInputMessage=""
                 showClearDate={false}
                 showDefaultInputIcon={false}
+                small={false}
                 transitionDuration={undefined}
                 verticalHeight={null}
+                verticalSpacing={22}
                 weekDayFormat="dd"
                 withFullScreenPortal={false}
                 withPortal={false}
@@ -2267,16 +2318,19 @@ ShallowWrapper {
                 },
                 "placeholder": "Date",
                 "readOnly": false,
+                "renderCalendarDay": undefined,
                 "renderCalendarInfo": null,
-                "renderDay": null,
+                "renderDayContents": null,
                 "renderMonth": null,
                 "reopenPickerOnClearDate": false,
                 "required": false,
                 "screenReaderInputMessage": "",
                 "showClearDate": false,
                 "showDefaultInputIcon": false,
+                "small": false,
                 "transitionDuration": undefined,
                 "verticalHeight": null,
+                "verticalSpacing": 22,
                 "weekDayFormat": "dd",
                 "withFullScreenPortal": false,
                 "withPortal": false,
@@ -2429,16 +2483,19 @@ ShallowWrapper {
             }
             placeholder="Date"
             readOnly={false}
+            renderCalendarDay={undefined}
             renderCalendarInfo={null}
-            renderDay={null}
+            renderDayContents={null}
             renderMonth={null}
             reopenPickerOnClearDate={false}
             required={false}
             screenReaderInputMessage=""
             showClearDate={false}
             showDefaultInputIcon={false}
+            small={false}
             transitionDuration={undefined}
             verticalHeight={null}
+            verticalSpacing={22}
             weekDayFormat="dd"
             withFullScreenPortal={false}
             withPortal={false}
@@ -2552,16 +2609,19 @@ ShallowWrapper {
               }
               placeholder="Date"
               readOnly={false}
+              renderCalendarDay={undefined}
               renderCalendarInfo={null}
-              renderDay={null}
+              renderDayContents={null}
               renderMonth={null}
               reopenPickerOnClearDate={false}
               required={false}
               screenReaderInputMessage=""
               showClearDate={false}
               showDefaultInputIcon={false}
+              small={false}
               transitionDuration={undefined}
               verticalHeight={null}
+              verticalSpacing={22}
               weekDayFormat="dd"
               withFullScreenPortal={false}
               withPortal={false}
@@ -2676,16 +2736,19 @@ ShallowWrapper {
               },
               "placeholder": "Date",
               "readOnly": false,
+              "renderCalendarDay": undefined,
               "renderCalendarInfo": null,
-              "renderDay": null,
+              "renderDayContents": null,
               "renderMonth": null,
               "reopenPickerOnClearDate": false,
               "required": false,
               "screenReaderInputMessage": "",
               "showClearDate": false,
               "showDefaultInputIcon": false,
+              "small": false,
               "transitionDuration": undefined,
               "verticalHeight": null,
+              "verticalSpacing": 22,
               "weekDayFormat": "dd",
               "withFullScreenPortal": false,
               "withPortal": false,
@@ -2816,16 +2879,19 @@ ShallowWrapper {
               }
               placeholder="Date"
               readOnly={false}
+              renderCalendarDay={undefined}
               renderCalendarInfo={null}
-              renderDay={null}
+              renderDayContents={null}
               renderMonth={null}
               reopenPickerOnClearDate={false}
               required={false}
               screenReaderInputMessage=""
               showClearDate={false}
               showDefaultInputIcon={false}
+              small={false}
               transitionDuration={undefined}
               verticalHeight={null}
+              verticalSpacing={22}
               weekDayFormat="dd"
               withFullScreenPortal={false}
               withPortal={false}
@@ -2939,16 +3005,19 @@ ShallowWrapper {
                 }
                 placeholder="Date"
                 readOnly={false}
+                renderCalendarDay={undefined}
                 renderCalendarInfo={null}
-                renderDay={null}
+                renderDayContents={null}
                 renderMonth={null}
                 reopenPickerOnClearDate={false}
                 required={false}
                 screenReaderInputMessage=""
                 showClearDate={false}
                 showDefaultInputIcon={false}
+                small={false}
                 transitionDuration={undefined}
                 verticalHeight={null}
+                verticalSpacing={22}
                 weekDayFormat="dd"
                 withFullScreenPortal={false}
                 withPortal={false}
@@ -3063,16 +3132,19 @@ ShallowWrapper {
                 },
                 "placeholder": "Date",
                 "readOnly": false,
+                "renderCalendarDay": undefined,
                 "renderCalendarInfo": null,
-                "renderDay": null,
+                "renderDayContents": null,
                 "renderMonth": null,
                 "reopenPickerOnClearDate": false,
                 "required": false,
                 "screenReaderInputMessage": "",
                 "showClearDate": false,
                 "showDefaultInputIcon": false,
+                "small": false,
                 "transitionDuration": undefined,
                 "verticalHeight": null,
+                "verticalSpacing": 22,
                 "weekDayFormat": "dd",
                 "withFullScreenPortal": false,
                 "withPortal": false,
