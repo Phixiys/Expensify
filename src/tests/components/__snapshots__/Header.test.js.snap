@@ -4,7 +4,9 @@ exports[`should render Header correctly 1`] = `
 ShallowWrapper {
   "length": 1,
   Symbol(enzyme.__root__): [Circular],
-  Symbol(enzyme.__unrendered__): <Header />,
+  Symbol(enzyme.__unrendered__): <Header
+    startLogout={[Function]}
+  />,
   Symbol(enzyme.__renderer__): Object {
     "batchedUpdates": [Function],
     "getNode": [Function],
@@ -43,6 +45,11 @@ ShallowWrapper {
         >
           Help
         </NavLink>,
+        <button
+          onClick={[Function]}
+        >
+          Logout
+        </button>,
       ],
     },
     "ref": null,
@@ -101,6 +108,18 @@ ShallowWrapper {
         "rendered": "Help",
         "type": [Function],
       },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": "Logout",
+          "onClick": [Function],
+        },
+        "ref": null,
+        "rendered": "Logout",
+        "type": "button",
+      },
     ],
     "type": "header",
   },
@@ -136,6 +155,11 @@ ShallowWrapper {
           >
             Help
           </NavLink>,
+          <button
+            onClick={[Function]}
+          >
+            Logout
+          </button>,
         ],
       },
       "ref": null,
@@ -193,6 +217,18 @@ ShallowWrapper {
           "ref": null,
           "rendered": "Help",
           "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "Logout",
+            "onClick": [Function],
+          },
+          "ref": null,
+          "rendered": "Logout",
+          "type": "button",
         },
       ],
       "type": "header",
